@@ -8,6 +8,7 @@ Usage:
 	└──╼ [★]$ python3 zipcracker.py -f <zipfile> -d <dictionary>
 
 Example:
+
 	─[xc0d3@cs-academy]─[~]
 	└──╼ [★]$ python3 zipcracker.py -f archivo.zip -d dic.txt
 
